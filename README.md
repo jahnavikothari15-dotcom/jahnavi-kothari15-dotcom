@@ -10,23 +10,43 @@
 
 ---
 
-# 💜 `whoami`
+ ## 🚀 `SYSTEM_PROFILE`
 
-```python
-class JahnaviKothari:
+> **Jahnavi Kothari** — a Computer Science student exploring the intersection of  
+> **Software Engineering • Artificial Intelligence • Machine Learning**
 
-    role = "Software Engineer in the Making"
-    education = "B.Tech CSE (AI & ML)"
+<table>
+<tr>
+<td width="50%">
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Structures & Algorithms",
-        "Data Analytics",
-        "Software Engineering"
-    ]
+### 🧠 CORE MISSION
 
-    mission = "Turn curiosity into code. Build systems. Create impact. 🚀"
+**Turning curiosity into code.**  
+**Transforming ideas into intelligent solutions.**  
+**Building technology with real-world impact.**
+
+</td>
+
+<td width="50%">
+
+### ⚡ CURRENT MODE
+
+🟢 **BUILDING**  
+🤖 **EXPLORING AI & ML**  
+💻 **MASTERING SOFTWARE ENGINEERING**  
+🚀 **SHIPPING PROJECTS**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💫 `BUILDING_THE_FUTURE_WITH`
+
+`JAVA` • `PYTHON` • `DSA` • `MACHINE LEARNING` • `DATA ANALYTICS` • `INTELLIGENT SYSTEMS`
+
+> 💜 **Learn relentlessly. Build fearlessly. Create impact.**
 ```
 
 > 💜 **Turning curiosity into code and ideas into intelligent solutions — one project at a time.**
