@@ -1,107 +1,61 @@
-# 💜 Hey there, I'm Jahnavi Kothari 👋
+# 💜 `whoami`
 
-### 🤖 Aspiring Software Engineer | 💻 Problem Solver | 🧠 AI & ML Enthusiast
+```python
+class JahnaviKothari:
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Solving+Problems.+Creating+Impact.;Building+with+Java%2C+Python+%26+Machine+Learning.;Exploring+AI.+Engineering+the+Future." alt="Typing SVG" />
-</p>
+    def __init__(self):
+        self.name = "Jahnavi Kothari"
+        self.role = "Aspiring Software Engineer"
+        self.education = "B.Tech CSE (AI & ML)"
 
----
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Structures & Algorithms",
+            "Data Analytics",
+            "Software Engineering"
+        ]
 
-# 💜 About Me
+        self.currently_exploring = [
+            "Machine Learning Engineering",
+            "AI-Powered Applications",
+            "Data Visualization",
+            "Intelligent Systems",
+            "Real-World Problem Solving"
+        ]
 
-- 🎓 **B.Tech Computer Science Engineering (AI & ML) Student**
-- 💻 **Aspiring Software Engineer** passionate about building impactful technology
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Intelligent Systems**
-- 🧩 Strengthening problem-solving skills through **Data Structures & Algorithms**
-- 📊 Exploring **Data Analytics & Data Visualization**
-- 🚀 Building practical projects and turning ideas into real-world solutions
+    def mission(self):
+        return """
+        Turning curiosity into code,
+        ideas into intelligent solutions,
+        and problems into opportunities for impact.
+        🚀
+        """
 
-> 💜 **Curious minds ask questions. Builders create answers. I'm working toward becoming both.**
+    def mindset(self):
+        return "CODE • LEARN • BUILD • REPEAT"
 
----
+    def goal(self):
+        return "Solve problems. Build systems. Create impact. 💜"
+💜 Turning curiosity into code and ideas into intelligent solutions — one project at a time.
 
-# ⚡ Tech Arsenal
+STATUS       → 🟢 BUILDING
+MODE         → 🚀 LEARNING + SHIPPING
+FOCUS        → 💻 SOFTWARE ENGINEERING + 🤖 AI/ML
+MISSION      → 💡 TURN IDEAS INTO IMPACTFUL TECHNOLOGY
+MINDSET      → ⚡ CODE • LEARN • BUILD • REPEAT
+NEXT TARGET  → 🌟 STRONGER PROJECTS & TECHNICAL DEPTH
 
-### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-9333EA?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white)
 
-### 🌐 Development
+🔥 **THIS is the vibe you're talking about.**
 
-![HTML5](https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-7C3AED?style=for-the-badge&logo=firebase&logoColor=white)
+So your README starts with:
 
-### 📊 Data & AI
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-A855F7?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-9333EA?style=for-the-badge&logo=pandas&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-A855F7?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-## ⚡ InferX
-
-### ML Inference Performance Analytics
-
-> An analytics-focused project exploring machine learning inference performance and intelligent optimization.
-
-**Focus:** ML Systems • Performance Analytics • Data Insights
-
----
-
-## 🔮 TokenScope
-
-### Analyze. Optimize. Make Every Token Count.
-
-> A project focused on understanding prompt token usage and exploring efficient AI interactions.
-
-**Focus:** Prompt Analysis • Token Optimization • AI Efficiency
-
----
-
-## 🧠 Mindora
-
-### Intelligent Technology. Practical Impact.
-
-> Exploring how Machine Learning can be integrated into practical and intelligent applications.
-
-**Focus:** ML Integration • Intelligent Systems • Problem Solving
-
----
-
-# 🧩 Currently Exploring
-
-- 🟣 **Data Structures & Algorithms**
-- 🟣 **Machine Learning Engineering**
-- 🟣 **K-Nearest Neighbors (KNN)**
-- 🟣 **Data Analytics & Visualization**
-- 🟣 **AI-Powered Applications**
-- 🟣 **Software Engineering**
-
----
-
-# 🛠️ My Builder Mindset
-
-```text
-IDEA 💡
-   ↓
-ANALYZE 🔍
-   ↓
-DESIGN 🎨
-   ↓
-BUILD 💻
-   ↓
-DEBUG 🐛
-   ↓
-OPTIMIZE ⚡
-   ↓
-CREATE IMPACT 🚀
+1. ⚡ Your animated futuristic intro
+2. 💜 `whoami` **BIG TECHIE BOX**
+3. 🛰️ Current status
+4. ⚡ Tech Arsenal
+5. 🚀 Projects
+6. 📊 Dynamic GitHub analytics
+7. 🌐 Connect
