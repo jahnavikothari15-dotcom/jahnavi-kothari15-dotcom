@@ -128,19 +128,7 @@ class JahnaviKothari:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi-kothari15-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
 
----
 
-# 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jahnavi-kothari15-dotcom&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=AAAAAA)
-
----
-
-# 📈 Contribution Activity
-
-![Jahnavi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahnavi-kothari15-dotcom&bg_color=0D1117&color=FFFFFF&line=A855F7&point=C084FC&area=true&hide_border=true)
-
----
 
 # 🎯 Mission Control
 
