@@ -10,24 +10,21 @@
 
 ---
 
- ## 🚀 `SYSTEM_PROFILE`
+ ## 💜 SYSTEM PROFILE
 
-> **Jahnavi Kothari** — a Computer Science student exploring the intersection of  
-> **Software Engineering • Artificial Intelligence • Machine Learning**
+### 👩‍💻 Jahnavi Kothari
 
-<table>
-<tr>
-<td width="50%">
+**B.Tech CSE (AI & ML) Student** building her journey at the intersection of:
+
+> 💻 **Software Engineering** • 🤖 **Artificial Intelligence** • 🧠 **Machine Learning**
 
 ### 🧠 CORE MISSION
 
-**Turning curiosity into code.**  
-**Transforming ideas into intelligent solutions.**  
-**Building technology with real-world impact.**
+💡 **Turning curiosity into code.**  
+🤖 **Transforming ideas into intelligent solutions.**  
+🚀 **Building technology with real-world impact.**
 
-</td>
-
-<td width="50%">
+---
 
 ### ⚡ CURRENT MODE
 
@@ -36,20 +33,15 @@
 💻 **MASTERING SOFTWARE ENGINEERING**  
 🚀 **SHIPPING PROJECTS**
 
-</td>
-</tr>
-</table>
-
 ---
 
-### 💫 `BUILDING_THE_FUTURE_WITH`
+### 🔮 BUILDING THE FUTURE WITH
 
 `JAVA` • `PYTHON` • `DSA` • `MACHINE LEARNING` • `DATA ANALYTICS` • `INTELLIGENT SYSTEMS`
 
-> 💜 **Learn relentlessly. Build fearlessly. Create impact.**
-```
+---
 
-> 💜 **Turning curiosity into code and ideas into intelligent solutions — one project at a time.**
+> 💜 **Learn relentlessly. Build fearlessly. Create impact.**
 
 ---
 
